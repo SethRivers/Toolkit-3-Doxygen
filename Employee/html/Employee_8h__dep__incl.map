@@ -1,0 +1,9 @@
+<map id="Employee.h" name="Employee.h">
+<area shape="rect" id="node1" title="the .h file for the Employee file; readying whatever data bits are present inside." alt="" coords="191,5,289,32"/>
+<area shape="rect" id="node2" href="$Employee_8cpp.html" title="The Employee file &#45; which will handle the data modification of each regular employee." alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="the main driver for the Employee folder; pulling all employee, officer, and supervisor data for the u..." alt="" coords="244,155,327,181"/>
+<area shape="rect" id="node4" href="$Supervisor_8h.html" title="the .h file of the supervisor file" alt="" coords="145,80,247,107"/>
+<area shape="rect" id="node6" href="$Officer_8h.html" title="the .h file used to ready the parameters used in the Officer file" alt="" coords="323,80,399,107"/>
+<area shape="rect" id="node5" href="$Supervisor_8cpp.html" title="the supervisor file for calculating the pay and data of supervisors" alt="" coords="103,155,220,181"/>
+<area shape="rect" id="node7" href="$Officer_8cpp.html" title="the cpp file for handling the data of officer employees" alt="" coords="351,155,441,181"/>
+</map>
